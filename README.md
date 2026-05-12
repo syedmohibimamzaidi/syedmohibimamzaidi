@@ -16,14 +16,7 @@ Full-stack conversational booking system that interprets natural language reques
 
 ---
 
-### Appointment Demand Predictor
-Machine learning pipeline that forecasts appointment demand using time-series modeling with an interactive dashboard for real-time insights.
-
-**Tech:** Python, FastAPI, SQLite, React
-
----
-
-### Azure AI Automation Mini Project
+### Azure AI Automation
 Backend automation experiments integrating AI workflows with Microsoft Azure deployment.
 
 **Tech:** Python, Azure
@@ -54,6 +47,8 @@ Backend automation experiments integrating AI workflows with Microsoft Azure dep
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
@@ -62,7 +57,6 @@ Backend automation experiments integrating AI workflows with Microsoft Azure dep
 - Building AI-powered backend systems  
 - Exploring cloud deployment with Azure  
 - Developing machine learning pipelines  
-- Preparing for software engineering internships
 
 ---
 
