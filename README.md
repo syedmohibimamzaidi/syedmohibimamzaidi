@@ -1,66 +1,62 @@
-# Hi, I'm Mohib 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b3f6b,100:5a4fcf&height=180&section=header&text=Mohib%20Zaidi&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+</p>
 
-Software Engineering Co-op student at the **University of Alberta** focused on building **backend systems, APIs, and AI-powered applications**.
-
-I enjoy designing systems that combine **machine learning, backend logic, and modern user interfaces** to solve real-world problems.
-
----
-
-# Projects
-
-### AI Appointment Chatbot
-Full-stack conversational booking system that interprets natural language requests and automatically schedules appointments with conflict detection and business-hour validation.
-
-**Tech:** React, Node.js, Express, SQLite, OpenAI API  
-**Repo:** https://github.com/syedmohibimamzaidi/ai-appointment-chatbot
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8B7CF6&center=true&vCenter=true&width=650&height=45&lines=backend+systems+%26+APIs;AI+tooling+that+ships;still+negotiating+with+Azure" />
+</p>
 
 ---
 
-### Azure AI Automation
-Backend automation experiments integrating AI workflows with Microsoft Azure deployment.
+```console
+$ whoami
+mohib zaidi — software engineering @ university of alberta
 
-**Tech:** Python, Azure
+$ cat role.txt
+AI Engineer Extern @ Pfizer
+prev: SWE @ S4N Solutions · SWE @ UAlberta
 
----
+$ pwd
+/edmonton/alberta/canada
+```
 
-# Tech Stack
+```console
+$ cat now.txt
+building backend systems and AI tooling — natural-language
+interfaces, scheduling logic, and finding out how much of a
+deploy pipeline azure will take off my hands.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+open to conversations about backend, infra, and applied AI.
+```
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+```console
+$ ls -la ~/stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+drwxr-xr-x   languages    python   javascript   typescript
+drwxr-xr-x   backend      node.js  express      fastapi
+drwxr-xr-x   frontend     react
+drwxr-xr-x   data         sql      sqlite
+drwxr-xr-x   infra        azure    render       vercel      git
+```
 
-### AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
+```console
+$ ls projects/
+```
 
-### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+**[ai-appointment-chatbot](https://github.com/syedmohibimamzaidi/ai-appointment-chatbot)** — conversational booking system that parses natural-language requests, detects scheduling conflicts, and validates against business hours
+`react` `node.js` `express` `sqlite` `openai`
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+**azure-ai-automation** — backend automation experiments wiring AI workflows into Azure deployments
+`python` `azure`
 
----
+<!-- third project slot — a personal MCP server would fit well here -->
 
-# Currently
+```console
+$ cat contact.txt
+```
 
-- Building AI-powered backend systems  
-- Exploring cloud deployment with Azure  
-- Developing machine learning pipelines  
+[LinkedIn](https://linkedin.com/in/mohibz) · mohibimam@gmail.com
 
----
-
-# Connect With Me
-
-**LinkedIn:** [linkedin.com/in/mohibz](https://linkedin.com/in/mohibz)  
-**GitHub:** [github.com/syedmohibimamzaidi](https://github.com/syedmohibimamzaidi)
+```console
+$ exit
+```
