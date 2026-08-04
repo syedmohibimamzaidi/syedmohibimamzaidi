@@ -6,57 +6,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8B7CF6&center=true&vCenter=true&width=650&height=45&lines=backend+systems+%26+APIs;AI+tooling+that+ships;still+negotiating+with+Azure" />
 </p>
 
----
-
 ```console
 $ whoami
-mohib zaidi — software engineering @ university of alberta
-
-$ cat role.txt
+mohib zaidi
 AI Engineer Extern @ Pfizer
 prev: SWE @ S4N Solutions · SWE @ UAlberta
-
-$ pwd
-/edmonton/alberta/canada
+software engineering co-op @ university of alberta · edmonton, ab
 ```
 
-```console
-$ cat now.txt
-building backend systems and AI tooling — natural-language
-interfaces, scheduling logic, and finding out how much of a
-deploy pipeline azure will take off my hands.
+I build backend systems and AI tooling. Mostly grounded LLM pipelines, scheduling logic, and the evaluation work that tells you whether any of it actually holds up.
 
-open to conversations about backend, infra, and applied AI.
-```
+### Projects
 
-```console
-$ ls -la ~/stack
+**[saferoute-ai](https://github.com/syedmohibimamzaidi/saferoute-ai)**
+Fraud safety assistant for newcomers to Canada. Grounds every analysis in 15 fraud patterns compiled from five Canadian institutional sources, validates the model's response against a Zod schema, and returns the pattern IDs it reasoned from. Evaluated with a 39-test suite covering retrieval, validation, and prompt injection.
+`react` `node` `express` `openai` `zod` · [live](https://saferoute-canada.vercel.app)
 
-drwxr-xr-x   languages    python   javascript   typescript
-drwxr-xr-x   backend      node.js  express      fastapi
-drwxr-xr-x   frontend     react
-drwxr-xr-x   data         sql      sqlite
-drwxr-xr-x   infra        azure    render       vercel      git
-```
+**[ai-appointment-chatbot](https://github.com/syedmohibimamzaidi/ai-appointment-chatbot)**
+Conversational booking system that parses natural-language requests, detects scheduling conflicts, and validates against business hours.
+`react` `node` `express` `sqlite` `openai` [live](https://appointmentflowai.vercel.app)
 
-```console
-$ ls projects/
-```
+**[ai-barber-matcher](https://github.com/syedmohibimamzaidi/ai-barber-matcher)**
+*Atelier Match.* Guided intake scoring barbers on style, texture, and availability. Matching is deterministic and explainable; the model writes copy, not decisions.
+`react` `vite` `tailwind` `node` `express` · [live](https://ateliermatch.vercel.app)
 
-**[ai-appointment-chatbot](https://github.com/syedmohibimamzaidi/ai-appointment-chatbot)** — conversational booking system that parses natural-language requests, detects scheduling conflicts, and validates against business hours
-`react` `node.js` `express` `sqlite` `openai`
+### Stack
 
-**azure-ai-automation** — backend automation experiments wiring AI workflows into Azure deployments
-`python` `azure`
+**Languages** Python · JavaScript · TypeScript
+**Backend** Node.js · Express · FastAPI
+**Frontend** React · Vite · Tailwind
+**Data** SQL · SQLite · Zod
+**Infra** Azure · Render · Vercel · Git
 
-<!-- third project slot — a personal MCP server would fit well here -->
-
-```console
-$ cat contact.txt
-```
+### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/mohibz) · mohibimam@gmail.com
-
-```console
-$ exit
-```
